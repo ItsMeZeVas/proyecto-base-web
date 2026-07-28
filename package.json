@@ -1,5 +1,5 @@
 {
-  "name": "gestion-empresarial",
+  "name": "proyecto-base-web",
   "private": true,
   "scripts": {
     "dev": "docker compose up",
